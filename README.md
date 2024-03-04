@@ -7,7 +7,7 @@ Chicago gang dataset audit for INST 204.
 
 ## Goals
 
-The data is the [LEADS Gang File Summary Data](https://www.propublica.org/datastore/dataset/leads-gang-file-summary-data) from *ProPublica*. We are looking to answer the following questions about the data:
+The data is the Cook County Regional Intelligence spreadsheet of (anonymized) suspected gang members. We are looking to answer the following questions about the data:
 
 * What does this dataset lead us to notice?
 * What does this dataset lead us to ignore?
