@@ -3,7 +3,11 @@ Chicago gang dataset audit for INST 204.
 
 ## Members
 
-* [Cedric Prentice](https://github.com/cedric066) / 117196856 / cprentic
+* [Aaron Aben](https://github.com/aaron-j-aben)
+* [Anika Aracan](https://github.com/aaracan)
+* [Quinn Hancock](https://github.com/qhancock)
+* [Megan Nee](https://github.com/mlnee)
+* [Cedric Prentice](https://github.com/cedric066)
 
 ## Goals
 
